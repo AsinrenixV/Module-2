@@ -26,7 +26,8 @@ result(num1, num2)
 
 ## Output
 
-![Screenshot 2025-04-28 213014](https://github.com/user-attachments/assets/29db6b1e-e361-435a-81c4-72b8438d5b03)
+![image](https://github.com/user-attachments/assets/03541008-1ebb-40fb-9b07-31eb98587d88)
+
 
 ## Result
 
