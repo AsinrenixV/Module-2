@@ -47,7 +47,8 @@ for n in range(rows):
 
 ## Sample Output
 
-![Screenshot 2025-04-28 213918](https://github.com/user-attachments/assets/d9cd6876-547c-4e36-8123-009957d1464e)
+![image](https://github.com/user-attachments/assets/22798bfe-2b8c-4702-a7d6-887fb6a7ec72)
+
 
 ## Result
 
