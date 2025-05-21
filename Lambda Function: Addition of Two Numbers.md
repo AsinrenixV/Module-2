@@ -25,7 +25,8 @@ print("The sum is:", f(a, b))
 
 ## Output
 
-![Screenshot 2025-04-28 213503](https://github.com/user-attachments/assets/833661d7-5fbb-41a5-b89f-3ccdcf1636a2)
+![image](https://github.com/user-attachments/assets/e01aa576-4b92-4609-a2bf-06beb0ae5881)
+
 
 ## Result
 
