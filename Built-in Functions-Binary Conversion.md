@@ -17,7 +17,8 @@ print("Binary of 16 is:", binary_representation)
 
 ## Output
 
-![Screenshot 2025-04-28 212719](https://github.com/user-attachments/assets/c43fbf8a-3921-499d-8983-418eaebbca5d)
+![image](https://github.com/user-attachments/assets/60700927-7d57-4dc8-a707-746cff164866)
+
 
 ## Result
 Thus the program executed successfully.
